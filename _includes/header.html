@@ -2,13 +2,13 @@
   <a class="navbar-brand" href="/" alt="{{ site.description }}">{{ site.title }}</a>
   {% if page.this_bc %}
   <nav aria-label="breadcrumb">
-    <ol class="breadcrumb bg-primary m-0">
+    <ol class="breadcrumb bg-transparent m-0">
       {% for bc_hash in page.prev_bc %}
       {% for bc in bc_hash %}
-      <li class="breadcrumb-item"><a href="{{bc[1]}}">{{bc[0]}}</a></li>
+      <li class="breadcrumb-item small"><a href="{{bc[1]}}">{{bc[0]}}</a></li>
       {% endfor %}
       {% endfor %}
-      <li class="breadcrumb-item active" aria-current="page">{{page.this_bc}}</li>
+      <li class="breadcrumb-item small active" aria-current="page">{{page.this_bc}}</li>
     </ol>
   </nav>
   {% endif %}
