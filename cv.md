@@ -19,7 +19,7 @@ laboris nisi ut aliquip ex ea commodo consequat.
 ### Qualifications
 
 **A Level:** History, Economics, French  
-**EPQ:** "Have the goals of 1960s feminism been realised"  
+**EPQ:** *"Have the goals of 1960s feminism been realised?"*  
 **GCSE:** Mathematics (9), English Language (9), English Literature (9), French (9), Biology (9),
 Chemistry (9), Physics (9), Art (7), Music (6), History (A*)
 
